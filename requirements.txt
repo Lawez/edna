@@ -1,0 +1,10 @@
+joblib
+joblib
+numpy
+pandas
+Pillow
+Pillow
+scikit_learn
+scikit_learn
+streamlit
+xgboost
